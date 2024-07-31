@@ -18,42 +18,42 @@ This Excel file contains the raw data used for analysis. The data includes infor
 This Power BI file contains the interactive dashboard created using the data from the Excel file. The dashboard provides visual representations of the data, including charts, graphs, and tables.
 
 # How to Use
- - Prerequisites
+- Prerequisites
   - Microsoft Power BI Desktop installed on your computer.
- - Steps to Access the Dashboard
-  - Open the Dashboard:
-     - Launch Microsoft Power BI Desktop.
-     - Open the BlinkIt Dashboard.pbix file by navigating to File > Open and selecting the file from its location.
+- Steps to Access the Dashboard
+   - Open the Dashboard:
+      - Launch Microsoft Power BI Desktop.
+      - Open the BlinkIt Dashboard.pbix file by navigating to File > Open and selecting the file from its location.
  
-  - Review Data Connections:
-    - Ensure that the data connections in the Power BI file are correctly linked to the BlinkIT Grocery Data.xlsx file. If needed, update the data source by navigating to Home > Transform Data > Data Source Settings and making the necessary changes.
+   - Review Data Connections:
+      - Ensure that the data connections in the Power BI file are correctly linked to the BlinkIT Grocery Data.xlsx file. If needed, update the data source by navigating to Home > Transform Data > Data Source Settings and making the necessary changes.
 
-  - Explore the Dashboard:
-    - Navigate through the different pages of the dashboard to explore various aspects of the data.
-    - Use the interactive features such as filters, slicers, and drill-through options to delve deeper into specific metrics and insights.
+   - Explore the Dashboard:
+      - Navigate through the different pages of the dashboard to explore various aspects of the data.
+      - Use the interactive features such as filters, slicers, and drill-through options to delve deeper into specific metrics and insights.
 
 # Key Insights and Visuals
- - Sales Performance:
+- Sales Performance:
   - Visualizations showing total sales, sales trends over time, and comparisons between different periods.
   - Insights into top-performing products and categories.
   - Measures:
-     - Total Sales: Sum of all sales transactions.
-     - Average Sales: Average sales value per transaction.
+       - Total Sales: Sum of all sales transactions.
+       - Average Sales: Average sales value per transaction.
 
 - Inventory Management:
- - Charts displaying inventory levels, stock turnover rates, and inventory aging.
- - Analysis of stockouts and overstock situations.
- - Measures:
-    - Number of Items: Total count of unique items in inventory.
+  - Charts displaying inventory levels, stock turnover rates, and inventory aging.
+  - Analysis of stockouts and overstock situations.
+  - Measures:
+      - Number of Items: Total count of unique items in inventory.
 
 - Customer Analysis:
- - Demographic breakdown of customers.
- - Customer purchase patterns and behavior analysis.
- - Measures:
-    - Average Rating: Average customer rating for products.
+  - Demographic breakdown of customers.
+  - Customer purchase patterns and behavior analysis.
+  - Measures:
+      - Average Rating: Average customer rating for products.
 
 - Operational Efficiency:
- - Metrics related to order fulfillment times, delivery efficiency, and supplier performance.
+  - Metrics related to order fulfillment times, delivery efficiency, and supplier performance.
 
 # Changes in Power Query Editor
 - Additional transformations and data cleaning steps were performed to ensure data quality and consistency.
