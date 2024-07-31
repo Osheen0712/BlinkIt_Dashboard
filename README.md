@@ -1,7 +1,7 @@
 # BlinkIt Power BI Dashboard
 
 ## Table of Contents :
-  Overview
+ - Overview
  - Files
  - How to Use
  - Key Insights and Visuals
